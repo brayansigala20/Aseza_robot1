@@ -1,0 +1,1 @@
+[{"label":"Terminal elements","selectable":false,"expanded":true,"children":[{"label":"New element","data":{"uuid":"cc09888a-f53e-4612-8b6a-2d2708bf4970","termSelector":{"start_x":0,"start_y":0,"end_x":0,"end_y":0},"version":"5.2.0","lastModified":"9.6.8","comment":""},"elementType":"terminal"}],"elementType":"terminal"}]

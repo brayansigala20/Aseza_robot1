@@ -1,0 +1,58 @@
+[2023-11-13T02:55:24.909Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-11-13T02:55:25.007Z] : [error]: Script Stopped.
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/12/2023, 8:55:25 PM
+  ==========================================
+  
+
+[2023-11-13T02:55:25.334Z] : [info]: Total execution time: 29s 888ms
+
+[2023-11-13T02:55:25.335Z] : [info]: ---------------------------------------------
+
+[2023-11-13T02:55:44.204Z] : [success]: Robot saved successfully
+
+[2023-11-13T02:55:44.324Z] : [success]: Bot started
+
+[2023-11-13T02:55:44.325Z] : [info]: Robot start
+
+[2023-11-13T02:55:47.161Z] : [error]: rfc is not defined
+
+[2023-11-13T02:55:47.743Z] : [info]: Total execution time: 2s 836ms
+
+[2023-11-13T02:55:47.743Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/12/2023, 9:15:10 PM
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/12/2023, 9:15:52 PM
+  ==========================================
+  
+
+[2023-11-13T03:33:58.588Z] : [error]: Script Stopped.
+
+[2023-11-13T03:33:59.272Z] : [info]: Total execution time: 19s 746ms
+
+[2023-11-13T03:33:59.273Z] : [info]: ---------------------------------------------
+
+[2023-11-13T05:39:55.103Z] : [success]: Robot saved successfully
+
+[2023-11-13T05:41:24.887Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/12/2023, 11:41:25 PM
+  ==========================================
+  
+

@@ -1,0 +1,890 @@
+[2023-11-12T03:51:51.873Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.6.8
+  Started at: 11/11/2023, 9:51:52 PM
+  ==========================================
+  
+
+[2023-11-12T03:51:58.835Z] : [success]: Bot started
+
+[2023-11-12T03:51:58.836Z] : [info]: Robot start
+
+[2023-11-12T03:52:08.368Z] : [success]: Bot finished successfully, total execution time: 9s 530ms
+
+[2023-11-12T03:52:08.369Z] : [info]: ---------------------------------------------
+
+[2023-11-12T03:52:30.059Z] : [warn]: There is a small amount of free memory (RAM) left, 90.75% of RAM is being used (7207 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T03:55:14.478Z] : [success]: Robot saved successfully
+
+[2023-11-12T03:55:14.775Z] : [success]: Bot started
+
+[2023-11-12T03:55:14.776Z] : [info]: Robot start
+
+[2023-11-12T03:55:21.268Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T03:55:21.689Z] : [info]: Total execution time: 6s 492ms
+
+[2023-11-12T03:55:21.690Z] : [info]: ---------------------------------------------
+
+[2023-11-12T03:55:35.673Z] : [success]: Bot started
+
+[2023-11-12T03:55:35.674Z] : [info]: Robot start
+
+[2023-11-12T03:55:45.177Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2023-11-12T03:55:45.573Z] : [info]: Total execution time: 9s 503ms
+
+[2023-11-12T03:55:45.574Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:03:10.991Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:03:11.301Z] : [success]: Bot started
+
+[2023-11-12T04:03:11.302Z] : [info]: Robot start
+
+[2023-11-12T04:03:35.148Z] : [info]: 5HH2LT
+
+[2023-11-12T04:03:35.872Z] : [success]: Bot finished successfully, total execution time: 24s 565ms
+
+[2023-11-12T04:03:35.874Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:07:56.737Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:07:57.131Z] : [success]: Bot started
+
+[2023-11-12T04:07:57.135Z] : [info]: Robot start
+
+[2023-11-12T04:08:07.558Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:08:08.016Z] : [info]: Total execution time: 10s 423ms
+
+[2023-11-12T04:08:08.017Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:08:29.292Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:08:29.620Z] : [success]: Bot started
+
+[2023-11-12T04:08:29.621Z] : [info]: Robot start
+
+[2023-11-12T04:08:40.689Z] : [info]: Selectors: Nothing found
+
+[2023-11-12T04:08:41.157Z] : [success]: Bot finished successfully, total execution time: 11s 532ms
+
+[2023-11-12T04:08:41.158Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:13:05.314Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:13:05.587Z] : [success]: Bot started
+
+[2023-11-12T04:13:05.587Z] : [info]: Robot start
+
+[2023-11-12T04:13:15.861Z] : [info]: Selectors: Nothing found
+
+[2023-11-12T04:13:16.244Z] : [success]: Bot finished successfully, total execution time: 10s 654ms
+
+[2023-11-12T04:13:16.247Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:13:33.140Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:13:33.448Z] : [success]: Bot started
+
+[2023-11-12T04:13:33.451Z] : [info]: Robot start
+
+[2023-11-12T04:13:43.685Z] : [info]: Selectors: Nothing found
+
+[2023-11-12T04:13:44.686Z] : [success]: Bot finished successfully, total execution time: 11s 231ms
+
+[2023-11-12T04:13:44.688Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:14:32.687Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:14:32.994Z] : [success]: Bot started
+
+[2023-11-12T04:14:32.994Z] : [info]: Robot start
+
+[2023-11-12T04:15:00.295Z] : [info]: Selectors: {"count":0,"treeCounts":[0,0,0,0,0,0,0,0,0,0,0,0,0,0],"severalFound":false,"noneFound":true,"element":null}
+
+
+[2023-11-12T04:15:00.549Z] : [success]: Bot finished successfully, total execution time: 27s 552ms
+
+[2023-11-12T04:15:00.550Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:15:33.540Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:15:33.864Z] : [success]: Bot started
+
+[2023-11-12T04:15:33.865Z] : [info]: Robot start
+
+[2023-11-12T04:15:44.929Z] : [info]: Selectors: Nothing found
+
+[2023-11-12T04:15:45.746Z] : [success]: Bot finished successfully, total execution time: 11s 878ms
+
+[2023-11-12T04:15:45.747Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:17:25.797Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:17:26.203Z] : [success]: Bot started
+
+[2023-11-12T04:17:26.204Z] : [info]: Robot start
+
+[2023-11-12T04:17:37.313Z] : [success]: Bot finished successfully, total execution time: 11s 105ms
+
+[2023-11-12T04:17:37.315Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:20:57.894Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:21:04.270Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:21:11.052Z] : [success]: Bot started
+
+[2023-11-12T04:21:11.053Z] : [info]: Robot start
+
+[2023-11-12T04:21:24.669Z] : [error]: The extraction start point has not been found. Make sure the specified text in the "After" parameter actually exists in the input string
+
+[2023-11-12T04:21:25.183Z] : [info]: Total execution time: 13s 615ms
+
+[2023-11-12T04:21:25.184Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:24:54.705Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:24:55.142Z] : [success]: Bot started
+
+[2023-11-12T04:24:55.143Z] : [info]: Robot start
+
+[2023-11-12T04:25:21.500Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T04:25:21.944Z] : [info]: Total execution time: 26s 357ms
+
+[2023-11-12T04:25:21.945Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:25:44.536Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:25:44.831Z] : [success]: Bot started
+
+[2023-11-12T04:25:44.832Z] : [info]: Robot start
+
+[2023-11-12T04:25:50.168Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:25:50.594Z] : [info]: Total execution time: 5s 336ms
+
+[2023-11-12T04:25:50.594Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:26:00.263Z] : [success]: Bot started
+
+[2023-11-12T04:26:00.265Z] : [info]: Robot start
+
+[2023-11-12T04:26:25.632Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T04:26:26.082Z] : [info]: Total execution time: 25s 366ms
+
+[2023-11-12T04:26:26.082Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:30:00.061Z] : [warn]: There is a small amount of free memory (RAM) left, 90.14% of RAM is being used (7159 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T04:32:00.049Z] : [warn]: There is a small amount of free memory (RAM) left, 90.19% of RAM is being used (7163 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T04:37:30.087Z] : [warn]: There is a small amount of free memory (RAM) left, 92.7% of RAM is being used (7362 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T04:43:06.628Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:43:06.975Z] : [success]: Bot started
+
+[2023-11-12T04:43:06.976Z] : [info]: Robot start
+
+[2023-11-12T04:43:16.401Z] : [success]: Bot finished successfully, total execution time: 9s 423ms
+
+[2023-11-12T04:43:16.402Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:43:54.100Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:44:00.418Z] : [success]: Bot started
+
+[2023-11-12T04:44:00.419Z] : [info]: Robot start
+
+[2023-11-12T04:44:10.921Z] : [success]: Bot finished successfully, total execution time: 10s 500ms
+
+[2023-11-12T04:44:10.922Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:45:41.548Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:45:47.835Z] : [success]: Bot started
+
+[2023-11-12T04:45:47.836Z] : [info]: Robot start
+
+[2023-11-12T04:45:53.340Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:45:53.774Z] : [info]: Total execution time: 5s 503ms
+
+[2023-11-12T04:45:53.775Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:46:05.161Z] : [success]: Bot started
+
+[2023-11-12T04:46:05.163Z] : [info]: Robot start
+
+[2023-11-12T04:46:09.307Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:46:09.680Z] : [info]: Total execution time: 4s 144ms
+
+[2023-11-12T04:46:09.681Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:46:12.818Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:46:20.669Z] : [success]: Bot started
+
+[2023-11-12T04:46:20.670Z] : [info]: Robot start
+
+[2023-11-12T04:46:26.162Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:46:26.533Z] : [info]: Total execution time: 5s 492ms
+
+[2023-11-12T04:46:26.534Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:46:54.994Z] : [success]: Bot started
+
+[2023-11-12T04:46:54.995Z] : [info]: Robot start
+
+[2023-11-12T04:46:59.116Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:46:59.483Z] : [info]: Total execution time: 4s 121ms
+
+[2023-11-12T04:46:59.483Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:47:15.690Z] : [success]: Bot started
+
+[2023-11-12T04:47:15.692Z] : [info]: Robot start
+
+[2023-11-12T04:47:26.933Z] : [success]: Bot finished successfully, total execution time: 11s 239ms
+
+[2023-11-12T04:47:26.934Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:48:15.048Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:48:15.513Z] : [success]: Bot started
+
+[2023-11-12T04:48:15.513Z] : [info]: Robot start
+
+[2023-11-12T04:48:27.762Z] : [success]: Bot finished successfully, total execution time: 12s 245ms
+
+[2023-11-12T04:48:27.764Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:49:14.606Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:49:24.325Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:49:24.665Z] : [success]: Bot started
+
+[2023-11-12T04:49:24.666Z] : [info]: Robot start
+
+[2023-11-12T04:49:39.450Z] : [success]: Bot finished successfully, total execution time: 14s 781ms
+
+[2023-11-12T04:49:39.452Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:52:34.951Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:53:08.593Z] : [success]: Bot started
+
+[2023-11-12T04:53:08.594Z] : [info]: Robot start
+
+[2023-11-12T04:53:36.089Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T04:53:36.630Z] : [info]: Total execution time: 27s 495ms
+
+[2023-11-12T04:53:36.632Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:54:32.283Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:54:39.646Z] : [success]: Bot started
+
+[2023-11-12T04:54:39.647Z] : [info]: Robot start
+
+[2023-11-12T04:54:44.846Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:54:45.439Z] : [info]: Total execution time: 5s 198ms
+
+[2023-11-12T04:54:45.439Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:54:54.844Z] : [success]: Bot started
+
+[2023-11-12T04:54:54.845Z] : [info]: Robot start
+
+[2023-11-12T04:55:21.278Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T04:55:21.763Z] : [info]: Total execution time: 26s 433ms
+
+[2023-11-12T04:55:21.764Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:57:56.952Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:57:57.301Z] : [success]: Bot started
+
+[2023-11-12T04:57:57.302Z] : [info]: Robot start
+
+[2023-11-12T04:58:25.503Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T04:58:26.001Z] : [info]: Total execution time: 28s 201ms
+
+[2023-11-12T04:58:26.002Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:58:55.416Z] : [success]: Robot saved successfully
+
+[2023-11-12T04:58:55.821Z] : [success]: Bot started
+
+[2023-11-12T04:58:55.822Z] : [info]: Robot start
+
+[2023-11-12T04:59:03.413Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T04:59:03.814Z] : [info]: Total execution time: 7s 591ms
+
+[2023-11-12T04:59:03.815Z] : [info]: ---------------------------------------------
+
+[2023-11-12T04:59:09.547Z] : [success]: Bot started
+
+[2023-11-12T04:59:09.548Z] : [info]: Robot start
+
+[2023-11-12T04:59:36.009Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T04:59:36.464Z] : [info]: Total execution time: 26s 461ms
+
+[2023-11-12T04:59:36.465Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:02:13.428Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:02:13.746Z] : [success]: Bot started
+
+[2023-11-12T05:02:13.748Z] : [info]: Robot start
+
+[2023-11-12T05:02:33.699Z] : [success]: Bot finished successfully, total execution time: 19s 945ms
+
+[2023-11-12T05:02:33.703Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:02:47.827Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:02:55.365Z] : [success]: Bot started
+
+[2023-11-12T05:02:55.367Z] : [info]: Robot start
+
+[2023-11-12T05:03:14.693Z] : [success]: Bot finished successfully, total execution time: 19s 324ms
+
+[2023-11-12T05:03:14.695Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:03:40.968Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:03:41.359Z] : [success]: Bot started
+
+[2023-11-12T05:03:41.359Z] : [info]: Robot start
+
+[2023-11-12T05:03:58.671Z] : [success]: Bot finished successfully, total execution time: 17s 310ms
+
+[2023-11-12T05:03:58.672Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:04:16.633Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:07:34.980Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:07:35.355Z] : [success]: Bot started
+
+[2023-11-12T05:07:35.356Z] : [info]: Robot start
+
+[2023-11-12T05:08:14.651Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-11-12T05:08:15.136Z] : [info]: Total execution time: 39s 295ms
+
+[2023-11-12T05:08:15.137Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:13:47.207Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:13:56.270Z] : [info]: Internet connection // error
+
+[2023-11-12T05:13:56.468Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:13:56.469Z] : [success]: Bot started
+
+[2023-11-12T05:13:56.469Z] : [info]: Robot start
+
+[2023-11-12T05:14:23.936Z] : [success]: Bot finished successfully, total execution time: 27s 467ms
+
+[2023-11-12T05:14:23.937Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:16:55.373Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-12T05:16:55.473Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:16:55.900Z] : [success]: Bot started
+
+[2023-11-12T05:16:55.901Z] : [info]: Robot start
+
+[2023-11-12T05:17:02.161Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T05:17:02.631Z] : [info]: Total execution time: 6s 258ms
+
+[2023-11-12T05:17:02.632Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:17:23.080Z] : [success]: Bot started
+
+[2023-11-12T05:17:23.080Z] : [info]: Robot start
+
+[2023-11-12T05:17:49.442Z] : [success]: Bot finished successfully, total execution time: 26s 359ms
+
+[2023-11-12T05:17:49.444Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:21:59.886Z] : [success]: Robot saved successfully
+
+[2023-11-12T05:22:00.312Z] : [success]: Bot started
+
+[2023-11-12T05:22:00.313Z] : [info]: Robot start
+
+[2023-11-12T05:22:07.036Z] : [error]: Script Stopped.
+
+[2023-11-12T05:22:07.432Z] : [info]: Total execution time: 6s 723ms
+
+[2023-11-12T05:22:07.433Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:22:36.380Z] : [success]: Bot started
+
+[2023-11-12T05:22:36.382Z] : [info]: Robot start
+
+[2023-11-12T05:23:00.076Z] : [warn]: There is a small amount of free memory (RAM) left, 90.91% of RAM is being used (7220 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T05:24:40.292Z] : [error]: Script Stopped.
+
+[2023-11-12T05:24:40.585Z] : [info]: ---------------------------------------------
+
+[2023-11-12T05:35:30.072Z] : [warn]: There is a small amount of free memory (RAM) left, 92.73% of RAM is being used (7365 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T05:45:30.085Z] : [warn]: There is a small amount of free memory (RAM) left, 92.72% of RAM is being used (7364 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T05:48:30.100Z] : [warn]: There is a small amount of free memory (RAM) left, 93.01% of RAM is being used (7387 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T05:51:30.103Z] : [warn]: There is a small amount of free memory (RAM) left, 92.24% of RAM is being used (7326 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T05:54:30.104Z] : [warn]: There is a small amount of free memory (RAM) left, 94.09% of RAM is being used (7473 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T05:57:30.122Z] : [warn]: There is a small amount of free memory (RAM) left, 93.21% of RAM is being used (7403 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:03:00.055Z] : [warn]: There is a small amount of free memory (RAM) left, 90.29% of RAM is being used (7171 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:22:07.218Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:22:07.622Z] : [success]: Bot started
+
+[2023-11-12T06:22:07.623Z] : [info]: Robot start
+
+[2023-11-12T06:22:15.953Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T06:22:16.476Z] : [info]: Total execution time: 8s 329ms
+
+[2023-11-12T06:22:16.478Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:22:25.896Z] : [success]: Bot started
+
+[2023-11-12T06:22:25.897Z] : [info]: Robot start
+
+[2023-11-12T06:22:30.069Z] : [warn]: There is a small amount of free memory (RAM) left, 94.33% of RAM is being used (7492 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:22:41.537Z] : [success]: Bot finished successfully, total execution time: 15s 638ms
+
+[2023-11-12T06:22:41.538Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:24:16.796Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:24:28.031Z] : [success]: Bot started
+
+[2023-11-12T06:24:28.031Z] : [info]: Robot start
+
+[2023-11-12T06:24:30.053Z] : [warn]: There is a small amount of free memory (RAM) left, 90.75% of RAM is being used (7207 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:24:40.906Z] : [success]: Bot finished successfully, total execution time: 12s 872ms
+
+[2023-11-12T06:24:40.907Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:27:18.719Z] : [success]: Bot started
+
+[2023-11-12T06:27:18.720Z] : [info]: Robot start
+
+[2023-11-12T06:27:30.073Z] : [warn]: There is a small amount of free memory (RAM) left, 90.66% of RAM is being used (7200 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:28:48.547Z] : [success]: Bot started
+
+[2023-11-12T06:28:48.548Z] : [info]: Robot start
+
+[2023-11-12T06:29:00.047Z] : [warn]: There is a small amount of free memory (RAM) left, 90.19% of RAM is being used (7163 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:30:07.563Z] : [success]: Bot started
+
+[2023-11-12T06:30:07.564Z] : [info]: Robot start
+
+[2023-11-12T06:30:30.068Z] : [warn]: There is a small amount of free memory (RAM) left, 90.12% of RAM is being used (7157 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:31:41.795Z] : [success]: Bot started
+
+[2023-11-12T06:31:41.796Z] : [info]: Robot start
+
+[2023-11-12T06:31:46.252Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T06:31:46.638Z] : [info]: Total execution time: 4s 456ms
+
+[2023-11-12T06:31:46.638Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:32:20.604Z] : [success]: Bot started
+
+[2023-11-12T06:32:20.605Z] : [info]: Robot start
+
+[2023-11-12T06:32:26.101Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T06:32:26.619Z] : [info]: Total execution time: 5s 496ms
+
+[2023-11-12T06:32:26.620Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:32:30.070Z] : [warn]: There is a small amount of free memory (RAM) left, 90.38% of RAM is being used (7178 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:32:36.824Z] : [success]: Bot started
+
+[2023-11-12T06:32:36.825Z] : [info]: Robot start
+
+[2023-11-12T06:33:21.712Z] : [error]: Script Stopped.
+
+[2023-11-12T06:33:21.978Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:33:30.735Z] : [success]: Bot started
+
+[2023-11-12T06:33:30.736Z] : [info]: Robot start
+
+[2023-11-12T06:35:46.798Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:35:46.857Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:35:47.531Z] : [success]: Bot started
+
+[2023-11-12T06:35:47.532Z] : [info]: Robot start
+
+[2023-11-12T06:37:29.349Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:37:29.406Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:37:30.043Z] : [success]: Bot started
+
+[2023-11-12T06:37:30.044Z] : [info]: Robot start
+
+[2023-11-12T06:37:30.240Z] : [warn]: There is a small amount of free memory (RAM) left, 94.55% of RAM is being used (7509 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:41:08.762Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:41:08.810Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:41:09.469Z] : [success]: Bot started
+
+[2023-11-12T06:41:09.470Z] : [info]: Robot start
+
+[2023-11-12T06:41:25.743Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T06:41:26.943Z] : [info]: Total execution time: 16s 273ms
+
+[2023-11-12T06:41:26.944Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:41:42.683Z] : [success]: Bot started
+
+[2023-11-12T06:41:42.684Z] : [info]: Robot start
+
+[2023-11-12T06:42:43.982Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:42:44.499Z] : [success]: Bot started
+
+[2023-11-12T06:42:44.500Z] : [info]: Robot start
+
+[2023-11-12T06:43:12.958Z] : [success]: Bot finished successfully, total execution time: 28s 455ms
+
+[2023-11-12T06:43:12.959Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:46:41.583Z] : [info]: Internet connection // error
+
+[2023-11-12T06:46:41.712Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:46:41.754Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:46:42.187Z] : [success]: Bot started
+
+[2023-11-12T06:46:42.188Z] : [info]: Robot start
+
+[2023-11-12T06:47:33.220Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-12T06:47:33.420Z] : [success]: Bot started
+
+[2023-11-12T06:47:33.421Z] : [info]: Robot start
+
+[2023-11-12T06:48:34.726Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:48:35.150Z] : [success]: Bot started
+
+[2023-11-12T06:48:35.151Z] : [info]: Robot start
+
+[2023-11-12T06:49:28.786Z] : [info]: Internet connection // error
+
+[2023-11-12T06:49:28.975Z] : [success]: Bot started
+
+[2023-11-12T06:49:28.976Z] : [info]: Robot start
+
+[2023-11-12T06:50:00.596Z] : [success]: Bot finished successfully, total execution time: 31s 620ms
+
+[2023-11-12T06:50:00.598Z] : [info]: ---------------------------------------------
+
+[2023-11-12T06:58:18.082Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-12T06:58:18.228Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:58:18.281Z] : [success]: Robot saved successfully
+
+[2023-11-12T06:58:19.084Z] : [success]: Bot started
+
+[2023-11-12T06:58:19.085Z] : [info]: Robot start
+
+[2023-11-12T06:58:30.511Z] : [warn]: There is a small amount of free memory (RAM) left, 94.8% of RAM is being used (7529 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T06:58:32.882Z] : [error]: Script Stopped.
+
+[2023-11-12T06:58:33.855Z] : [info]: Total execution time: 13s 796ms
+
+[2023-11-12T06:58:33.857Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:02:00.691Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:02:00.752Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:02:01.692Z] : [success]: Bot started
+
+[2023-11-12T07:02:01.692Z] : [info]: Robot start
+
+[2023-11-12T07:02:18.985Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T07:02:19.969Z] : [info]: Total execution time: 17s 292ms
+
+[2023-11-12T07:02:19.970Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:03:30.875Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:03:31.384Z] : [success]: Bot started
+
+[2023-11-12T07:03:31.385Z] : [info]: Robot start
+
+[2023-11-12T07:03:48.308Z] : [error]: Terminal: The type initializer for 'ElectroneekWinAgent.SelectorsApi.Controllers.TerminalController' threw an exception.
+
+[2023-11-12T07:03:49.049Z] : [info]: Total execution time: 16s 923ms
+
+[2023-11-12T07:03:49.050Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:07:17.884Z] : [info]: Internet connection // error
+
+[2023-11-12T07:07:18.027Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:07:18.090Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:07:18.566Z] : [success]: Bot started
+
+[2023-11-12T07:07:18.567Z] : [info]: Robot start
+
+[2023-11-12T07:07:31.304Z] : [warn]: There is a small amount of free memory (RAM) left, 94.38% of RAM is being used (7496 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T07:10:25.412Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:10:36.233Z] : [success]: Bot started
+
+[2023-11-12T07:10:36.234Z] : [info]: Robot start
+
+[2023-11-12T07:11:43.402Z] : [error]: File 'C:\Users\braya\Documents\ElectroNeek Workspace\sat_bot\UsersrayaDownloadscaptcha-COJX630213MG0' does not exist.
+
+[2023-11-12T07:11:44.194Z] : [info]: Total execution time: 1m 7s 166ms
+
+[2023-11-12T07:11:44.195Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:15:10.252Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:15:20.024Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-12T07:15:20.239Z] : [success]: Bot started
+
+[2023-11-12T07:15:20.239Z] : [info]: Robot start
+
+[2023-11-12T07:17:15.196Z] : [success]: Bot started
+
+[2023-11-12T07:17:15.197Z] : [info]: Robot start
+
+[2023-11-12T07:18:01.088Z] : [error]: File 'C:\Users\braya\Documents\ElectroNeek Workspace\sat_bot\UsersrayaDownloadscaptcha-COJX630213MG0' does not exist.
+
+[2023-11-12T07:18:01.898Z] : [info]: Total execution time: 45s 890ms
+
+[2023-11-12T07:18:01.899Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:18:22.888Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:19:16.179Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:19:16.716Z] : [success]: Bot started
+
+[2023-11-12T07:19:16.718Z] : [info]: Robot start
+
+[2023-11-12T07:19:26.094Z] : [error]: Selectors: Nothing found
+
+[2023-11-12T07:19:29.234Z] : [info]: Total execution time: 9s 375ms
+
+[2023-11-12T07:19:29.235Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:19:37.030Z] : [info]: Internet connection // error
+
+[2023-11-12T07:19:37.221Z] : [success]: Bot started
+
+[2023-11-12T07:19:37.222Z] : [info]: Robot start
+
+[2023-11-12T07:21:35.272Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:21:35.326Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:21:35.991Z] : [success]: Bot started
+
+[2023-11-12T07:21:35.992Z] : [info]: Robot start
+
+[2023-11-12T07:23:25.736Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:23:25.800Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:23:26.493Z] : [success]: Bot started
+
+[2023-11-12T07:23:26.494Z] : [info]: Robot start
+
+[2023-11-12T07:24:04.207Z] : [info]: File 'C:\Users\braya\Documents\ElectroNeek Workspace\sat_bot\UsersrayaDownloadscaptcha-COJX630213MG0' does not exist.
+
+[2023-11-12T07:24:04.336Z] : [success]: Bot finished successfully, total execution time: 37s 839ms
+
+[2023-11-12T07:24:04.338Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:25:10.239Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:25:10.293Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:25:11.004Z] : [success]: Bot started
+
+[2023-11-12T07:25:11.005Z] : [info]: Robot start
+
+[2023-11-12T07:25:36.560Z] : [info]: File 'C:\Users\braya\Documents\ElectroNeek Workspace\sat_bot\UsersrayaDownloadscaptcha-COJX630213MG0' does not exist.
+
+[2023-11-12T07:25:37.307Z] : [success]: Bot finished successfully, total execution time: 26s 299ms
+
+[2023-11-12T07:25:37.308Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:25:57.446Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:29:35.246Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:29:35.293Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:29:35.981Z] : [success]: Bot started
+
+[2023-11-12T07:29:35.982Z] : [info]: Robot start
+
+[2023-11-12T07:30:18.299Z] : [info]: File 'C:\Users\braya\Documents\ElectroNeek Workspace\sat_bot\UsersrayaDownloadscaptcha-COJX630213MG0' does not exist.
+
+[2023-11-12T07:30:18.649Z] : [success]: Bot finished successfully, total execution time: 42s 664ms
+
+[2023-11-12T07:30:18.650Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:31:39.391Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:31:39.443Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:31:40.157Z] : [success]: Bot started
+
+[2023-11-12T07:31:40.158Z] : [info]: Robot start
+
+[2023-11-12T07:32:21.097Z] : [info]: File 'C:\Users\braya\Documents\ElectroNeek Workspace\sat_bot\UsersrayaDownloadscaptcha-COJX630213MG0' does not exist.
+
+[2023-11-12T07:32:21.511Z] : [success]: Bot finished successfully, total execution time: 41s 350ms
+
+[2023-11-12T07:32:21.513Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:39:00.655Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:39:16.853Z] : [success]: Bot started
+
+[2023-11-12T07:39:16.854Z] : [info]: Robot start
+
+[2023-11-12T07:40:42.743Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:40:42.809Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:40:43.410Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:40:43.411Z] : [success]: Bot started
+
+[2023-11-12T07:40:43.411Z] : [info]: Robot start
+
+[2023-11-12T07:41:00.060Z] : [warn]: There is a small amount of free memory (RAM) left, 93.49% of RAM is being used (7425 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T07:43:35.184Z] : [info]: Internet connection // error
+
+[2023-11-12T07:43:35.307Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:43:35.359Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:43:35.823Z] : [success]: Bot started
+
+[2023-11-12T07:43:35.824Z] : [info]: Robot start
+
+[2023-11-12T07:44:11.894Z] : [success]: Bot finished successfully, total execution time: 36s 70ms
+
+[2023-11-12T07:44:11.895Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:45:27.916Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:45:36.343Z] : [success]: Connection to our licenses server is restored
+
+[2023-11-12T07:45:36.544Z] : [success]: Bot started
+
+[2023-11-12T07:45:36.546Z] : [info]: Robot start
+
+[2023-11-12T07:46:19.210Z] : [error]: Script stopped.
+
+[2023-11-12T07:46:19.681Z] : [info]: Total execution time: 42s 663ms
+
+[2023-11-12T07:46:19.683Z] : [info]: ---------------------------------------------
+
+[2023-11-12T07:46:38.411Z] : [success]: Robot saved successfully
+
+[2023-11-12T07:46:38.883Z] : [success]: Bot started
+
+[2023-11-12T07:46:38.884Z] : [info]: Robot start
+
+[2023-11-12T07:47:00.070Z] : [warn]: There is a small amount of free memory (RAM) left, 92.02% of RAM is being used (7308 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-11-12T07:47:24.661Z] : [info]: M3TTQX
+
+[2023-11-12T07:47:24.824Z] : [success]: Bot finished successfully, total execution time: 45s 937ms
+
+[2023-11-12T07:47:24.825Z] : [info]: ---------------------------------------------
+
+[2023-11-12T08:05:14.078Z] : [success]: Robot saved successfully
+
+[2023-11-12T08:05:24.524Z] : [success]: Bot started
+
+[2023-11-12T08:05:24.525Z] : [info]: Robot start
+
+[2023-11-12T08:06:15.248Z] : [info]: ---------------------------------------------
+
+[2023-11-12T08:06:15.250Z] : [success]: Bot started
+
+[2023-11-12T08:06:15.250Z] : [info]: Robot start
+
+[2023-11-12T08:07:00.139Z] : [success]: Bot finished successfully, total execution time: 44s 886ms
+
+[2023-11-12T08:07:00.140Z] : [info]: ---------------------------------------------
+
+[2023-11-12T08:07:49.417Z] : [success]: Robot saved successfully
+
+[2023-11-12T08:07:59.828Z] : [success]: Bot started
+
+[2023-11-12T08:07:59.829Z] : [info]: Robot start
+
+[2023-11-12T08:08:40.825Z] : [success]: Bot finished successfully, total execution time: 40s 993ms
+
+[2023-11-12T08:08:40.826Z] : [info]: ---------------------------------------------
+
